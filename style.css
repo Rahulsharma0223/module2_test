@@ -19,28 +19,31 @@ h2{
     background-color: rgb(6, 202, 236);
 }
 
-#div1{
+#p1{
     background-color: rgb(103, 133, 73);
     color: rgb(252, 0, 105);
-    border: 3px solid black;
+   
     padding: 5px;
+    margin: 5px;
+
     
 }
-#div2{
+#p2{
     background-color: rgb(200, 255, 0);
     color: rgb(14, 152, 194);
-    border: 3px solid black;
     
+    margin: 5px;
     padding: 5px;
 }
-#div3{
+#p3{
     background-color: rgb(131, 79, 66);
     color: rgb(217, 255, 0);
-    border: 3px solid black;
     
+    margin: 5px;
     padding: 5px;
 }
 .container div{
+  background-color: burlywood;
     float: left;
 }
 div h4{
